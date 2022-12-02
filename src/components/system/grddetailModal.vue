@@ -4,7 +4,7 @@
     <!-- s : 여기에 내용입력 -->
     <table id="grpInfo">
       <caption>
-        captionss
+        captionisgood
       </caption>
       <colgroup>
         <col width="120px" />
